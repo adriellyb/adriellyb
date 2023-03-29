@@ -1,3 +1,5 @@
+<img align="center" src="https://github.com/adriellyb/adriellyb/blob/main/github-header-image.png" />
+
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 - 👋 Hi, I’m @adriellyb
